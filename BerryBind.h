@@ -1,7 +1,6 @@
 #ifndef BERRY_BIND_H
 #define BERRY_BIND_H
 #include "be_vm.h"
-#include <EuphoniumLog.h>
 #include <any>
 #include <cstring>
 #include <exception>
